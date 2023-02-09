@@ -1,0 +1,14 @@
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+
+/* Below are some other possible descendant combinators:
+div p
+div .text
+.container p
+*/
