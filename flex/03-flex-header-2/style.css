@@ -1,4 +1,4 @@
-.header  {
+.header {
   font-family: monospace;
   background: papayawhip;
 
@@ -16,13 +16,13 @@
 }
 
 .profile-image {
-    background: rebeccapurple;
-    box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
-    border-radius: 50%;
-    width: 48px;
-    height:  48px;
-    /* flex-shrink: 0; */
-  }
+  background: rebeccapurple;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, .5);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  /* flex-shrink: 0; */
+}
 
 ul {
   /* this removes the dots on the list items*/
@@ -42,8 +42,9 @@ a {
   text-decoration: none;
 }
 
-.left, .right {
-    display: flex;
-    align-items: center;
-    gap: 16px;
+.left,
+.right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
